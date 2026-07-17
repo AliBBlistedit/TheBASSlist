@@ -1,0 +1,24 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "Neigefeu",
+    "creators": [],
+    "verifier": "Scatter",
+    "verification": "https://youtu.be/8z4peZCaSII",
+    "percentToQualify": "65",
+    "password": "free to copy",
+    "records": [
+        {
+            "user": "boingledoop",
+            "link": "",
+            "percent": 98,
+            "hz": 240
+        },
+        {
+            "user": "Ali___",
+            "link": "https://youtu.be/j-OBH9SURrY",
+            "percent": 98,
+            "hz": 240
+        }
+    ]
+}
